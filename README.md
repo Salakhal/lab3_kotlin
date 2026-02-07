@@ -1,8 +1,5 @@
 # Lab 3 - S’entraîner à créer des boucles (for-in) avec Kotlin
 
-**Cours :** Fondamentaux de la programmation en Kotlin  
-**Sujet :** Logique algorithmique, boucles imbriquées et manipulation de la console.
-
 ---
 
 ## 🎯 Objectif
@@ -19,37 +16,21 @@
 ## Task 1 — Triangle aligné à droite (5 lignes)
 
 ### Forme attendue
-```text
-*****
- ****
-  ***
-   **
-    *
-```
+
+<img width="234" height="189" alt="image" src="https://github.com/user-attachments/assets/17c22dc8-b2e7-494c-aa3d-f0659abb53d1" />
+
 ## Task 2 — Triangle “impair” aligné à droite
 
  ### Forme attendue
+<img width="217" height="190" alt="image" src="https://github.com/user-attachments/assets/0c795c63-97e1-42f2-881d-4eb74302d02f" />
 
- ```text
-*********
- *******
-  *****
-   ***
-    *
-```
+
 
 ## Task 3 — Double triangle (Montée puis Descente)
 
  ### Forme attendue
 
- ```text
-*
-   **
-  ***
- ****
-*****
- ****
-  ***
-   **
-    *
-```
+<img width="255" height="322" alt="image" src="https://github.com/user-attachments/assets/c9254695-2b8c-4a4c-a8cc-0a4acbec8490" />
+
+
+**Cours :** Fondamentaux de la programmation en Kotlin  
