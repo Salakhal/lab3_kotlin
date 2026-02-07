@@ -33,4 +33,16 @@
 <img width="255" height="322" alt="image" src="https://github.com/user-attachments/assets/c9254695-2b8c-4a4c-a8cc-0a4acbec8490" />
 
 
-**Cours :** Fondamentaux de la programmation en Kotlin  
+## 👤 Auteur
+
+* **École Normale Supérieure de Marrakech**
+  
+* **Réalisé par :** SALMA LAKHAL
+  
+* **Filière  :** CLE_INFO_S6
+  
+* **Encadré par :** Pr. Mohamed LACHGAR
+
+* **Module :** `Fondamentaux de la programmation en Kotlin  `
+
+
